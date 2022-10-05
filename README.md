@@ -5,6 +5,7 @@ Python fastapi, Jinja2, Docker
 Descargar y descomprimir archivo 
 
 # Up Docker
+Para levantar multiples contenedores
 ```Docker
 docker compose up -d
 ```
