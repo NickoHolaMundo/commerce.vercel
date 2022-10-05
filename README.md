@@ -9,26 +9,26 @@ Descargar y descomprimir archivo
 docker compose up -d
 ```
 
-# url docs
-Url donde se puede observar la documentacion de la api rest
+# Endpoint docs
+Se puede observar la documentacion de la api rest
 ```url 
 http://localhost:8080/docs#/
 ```
 
-# url index
-Endpoind de la pagina index.html 
+# Endpoint index
+Pagina index.html 
 ```url 
 http://localhost:8080/index
 ```
 
-# url dataGroup
-  Url donde se le pasa como parametro un indice entero desde 0-N
+# Endpoint dataGroup
+  Se le pasa como parametro un indice entero desde 0-N
 ```url 
 http://localhost:8080/dataGroup?_index=0
 ```
 
-# url OneData
-  Url donde se le pasa como parametro un indice entero desde 0-N
+# Endpoint OneData
+ Se le pasa como parametro un indice entero desde 0-N
 ```url 
 http://localhost:8080/OneData?_index=0
 ```
