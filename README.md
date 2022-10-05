@@ -1,6 +1,9 @@
 # Commerce.vercel
 Python fastapi, Jinja2, Docker
 
+# ari_GlobalMain.zip
+Descargar y descomprimir archivo 
+
 # Up Docker
 ```Docker
 docker compose up -d
