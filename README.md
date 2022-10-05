@@ -11,7 +11,7 @@ docker compose up -d
 ```
 
 # Endpoint docs
-Se puede observar la documentacion de la api rest
+Se puede observar la documentacion completa de la api rest
 ```url 
 http://localhost:8080/docs#/
 ```
