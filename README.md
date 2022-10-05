@@ -27,5 +27,12 @@ http://localhost:8080/index
 http://localhost:8080/dataGroup?_index=0
 ```
 
+# url OneData
+  Url donde se le pasa como parametro un indice entero desde 0-N
+```url 
+http://localhost:8080/OneData?_index=0
+```
 
-<!-- This content will not appear in the rendered Markdown -->
+
+
+<!-- no aparece nada jajaj-->
