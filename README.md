@@ -35,5 +35,16 @@ http://localhost:8080/OneData?_index=0
 ```
 
 
+# Diagrama
+<!--![Alt text](https://github.com/NickoHolaMundo/commerce.vercel/blob/main/DiagramaDocker.png "Diagrama")-->
 
+<img src="https://github.com/NickoHolaMundo/commerce.vercel/blob/main/DiagramaDocker.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="600" height="600" />
 <!-- no aparece nada jajaj-->
+
+
+
+# Pagina en Replit
+```url 
+https://apitemplateglobal.nicolaipotes.repl.co/index
+```
+
