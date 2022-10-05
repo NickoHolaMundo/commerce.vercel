@@ -48,3 +48,5 @@ http://localhost:8080/OneData?_index=0
 https://apitemplateglobal.nicolaipotes.repl.co/index
 ```
 
+# Metricas rendimiento pagina en Replit
+<img src="https://github.com/NickoHolaMundo/commerce.vercel/blob/main/metricas.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="600" height="200" />
