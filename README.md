@@ -42,11 +42,24 @@ http://localhost:8080/OneData?_index=0
 <!-- no aparece nada jajaj-->
 
 
+# Pagina codigo abierto en Replit
+```url 
+https://replit.com/@NicolaiPotes/apiTemplateGlobal?v=1#main.py
+```
 
-# Pagina en Replit
+
+
+# Pagina web index en Replit
 ```url 
 https://apitemplateglobal.nicolaipotes.repl.co/index
 ```
 
 # Metricas rendimiento pagina en Replit
 <img src="https://github.com/NickoHolaMundo/commerce.vercel/blob/main/metricas.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="600" height="200" />
+
+
+# Replit (cuenta)
+```url 
+https://replit.com/@NicolaiPotes/apiTemplateGlobal#main.py
+```
+
