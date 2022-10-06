@@ -23,7 +23,7 @@ http://localhost:8080/index
 ```
 
 # Endpoint dataGroup
-  Se le pasa como parametro un indice entero desde 0-N
+  Se le pasa como parametro un indice entero desde 0-N y me retorna 9 valores para hacer una cuadricula 3x3
 ```url 
 http://localhost:8080/dataGroup?_index=0
 ```
